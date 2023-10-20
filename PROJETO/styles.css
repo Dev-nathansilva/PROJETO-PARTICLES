@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+}
+
+#particles-js {
+    height: 100%;
+    background-image: url(./Default_black_space_website_background_1_232f9d75-b681-4fa7-a996-071cac8459fa_1.jpg);
+    background-repeat: no-repeat;
+    background-size: 2000px;
+    
+    
+}
